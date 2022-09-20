@@ -1,0 +1,19 @@
+.btn-modern {
+    background-color: rgb(233, 65, 191);
+    color: rgb(255, 255, 255);
+    border: none ;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+    padding: 5px 15px;
+    border-bottom: 3px solid rgb(109, 4, 122);
+}
+.btn-modern:hover {
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: rgb(107, 2, 20);
+    color: rgb(192, 224, 6);
+    transform: translateY(-5px);
+    border-bottom: 3px solid rgb(233, 145, 31);
+    transition: 0.4s;
+}
